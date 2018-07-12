@@ -1,4 +1,4 @@
-# GitHub Classroom Homework Assignment
+# Practicing Git
 Welcome! Here is a few simple exercise to verify that you got your Git and GitHub routine figured out!
 
 1. Clone this repository to your local computer. Hint: Use `git clone "address of repository"`. Be sure to replace the address of repository with this repository's address!
